@@ -1,7 +1,7 @@
 ##### Connect with me 📫
 
 - 👋 Hi, I’m <i>kristovish</i>
-- 👀 I truly interest in the programming studying for its graphic appliance, AI branches and videogames.
+- 👀 I am truly interest in the programming studying for its graphic appliance, AI branches and videogames.
 - 🤖 I’m an AI enthusiast
 - 💞️ I’m looking to collaborate on AI, games or blockchain development
 
