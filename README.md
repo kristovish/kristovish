@@ -23,11 +23,9 @@
     <img
       width="300"
       align="right"
-      src="https://api.daily.dev/devcards/4e06611dc76c48ecb533e3ce8b48e854.png?r=gj7"
+      src="https://github.com/kristovish/kristovish/blob/master/daily-devcard.svg"
     />
   </a>
-
-
   
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=kristovish)
