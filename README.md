@@ -23,7 +23,7 @@
     <img
       width="300"
       align="right"
-      src="https://github.com/kristovish/kristovish/blob/master/daily-devcard.svg"
+      src="https://github.com/kristovish/kristovish/blob/master/devcard.svg"
     />
   </a>
   
