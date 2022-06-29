@@ -72,13 +72,7 @@
  <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/> </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/kristovish" target="_blank">
-    <img 
-        align="right" 
-        src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"
-        alt="Buy Me A Coffee" style="width: 300px !important;" 
-        />
-      </a>
+
 
 ##### Project Managament
 
@@ -112,7 +106,13 @@
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-
+<a href="https://www.buymeacoffee.com/kristovish" target="_blank">
+    <img 
+        align="right" 
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"
+        alt="Buy Me A Coffee" style="width: 140px !important;" 
+        />
+      </a>
 
 
 </div>
