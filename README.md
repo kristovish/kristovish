@@ -16,6 +16,18 @@
 
 <br>
 
+<div align="left">
+
+
+<a href="https://app.daily.dev/kristovish" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/4e06611dc76c48ecb533e3ce8b48e854.png?r=gj7"
+    />
+  </a>
+  
+
 ##### Programming languages
 
 
@@ -24,7 +36,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>
      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 </p>
@@ -95,7 +106,7 @@
 
 
 
-
+</div>
 
 
 
