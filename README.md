@@ -21,12 +21,16 @@
 
 <a href="https://app.daily.dev/kristovish" target="_blank">
     <img
-      width="256"
+      width="300"
       align="right"
       src="https://api.daily.dev/devcards/4e06611dc76c48ecb533e3ce8b48e854.png?r=gj7"
     />
   </a>
+
+
   
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=kristovish)
 
 ##### Programming languages
 
@@ -68,7 +72,13 @@
  <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/> </a>
 </p>
 
-
+<a href="https://www.buymeacoffee.com/kristovish" target="_blank">
+    <img 
+        align="right" 
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"
+        alt="Buy Me A Coffee" style="width: 300px !important;" 
+        />
+      </a>
 
 ##### Project Managament
 
@@ -105,23 +115,12 @@
 
 
 
-
 </div>
 
 
+![Metrics](https://metrics.lecoq.io/kristovish?template=classic&base.activity=0&base.community=0&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSantiago)
 
 
-
-
-
-## 1. GitHub Stats
-![kristovish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristovish&show_icons=true&theme=)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kristovish&theme=)
-## 3. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=kristovish)
-## 4. Support Me
-<a href="https://www.buymeacoffee.com/kristovish" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
