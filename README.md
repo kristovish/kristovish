@@ -99,7 +99,7 @@
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
   <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
   <a href="https://godotengine.org//" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" alt="godot" width="40" height="40"/> </a> 
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
+
 </p>
 
 <a href="https://www.buymeacoffee.com/kristovish" target="_blank">
