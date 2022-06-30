@@ -6,11 +6,9 @@
 - 💞️ I’m looking to collaborate on AI, games or blockchain development
 
 <p align="center">
-<a href="https://codepen.io/kristovish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="kristovish" height="30" width="40" /></a>
 <a href="https://twitter.com/kristovish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kristovish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kristovish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="kristovish" height="30" width="40" /></a>
 <a href="https://discord.gg/kristovish#8186" target="blank"><img align="center" src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg" alt="kristovish#8186" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kristovish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kristovish" height="30" width="40" /></a>
 </p>
 
 
