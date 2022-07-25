@@ -1619,7 +1619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>D00Med/witchcraft</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minetest mod that adds potions and brewing</div>
@@ -2431,7 +2431,7 @@ maybe I'm doing something wrong. although the system of the machine is too simpl
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 13:21:26 (timezone America/Santiago) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jul 2022, 14:14:27 (timezone America/Santiago) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
