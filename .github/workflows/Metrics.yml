@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: kristovish/metrics@v3.26
+      - uses: kristovish/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
