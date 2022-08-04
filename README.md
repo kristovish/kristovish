@@ -114,8 +114,7 @@
 </div>
 
 
-![Metrics](https://metrics.lecoq.io/kristovish?template=classic&base.activity=0&base.community=0&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSantiago)
-
+![Metrics](https://metrics.lecoq.io/kristovish?template=classic&base.hireable=true&isocalendar=1&languages=1&achievements=1&introduction=1&base.indepth=false&base.hireable=true&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=America%2FSantiago&config.display=columns)
 
 
 
