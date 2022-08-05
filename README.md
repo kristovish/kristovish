@@ -1,6 +1,3 @@
-![Metrics](https://metrics.lecoq.io/kristovish?template=classic&base.hireable=true&languages=1&achievements=1&introduction=1&base.indepth=false&base.hireable=true&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=America%2FSantiago&config.display=columns)
-
-
 ##### Connect with me 📫
 
 - 👋 Hi, I’m <i>kristovish</i>
@@ -19,6 +16,9 @@
 
 
 <br>
+
+![Metrics](https://metrics.lecoq.io/kristovish?template=classic&base.indepth=true&base.hireable=true&languages=1&achievements=1&base.indepth=true&base.hireable=true&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=20&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSantiago&config.display=large)
+
 
 <div align="left">
 
@@ -105,8 +105,9 @@
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
   <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
   <a href="https://godotengine.org//" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" alt="godot" width="40" height="40"/> </a> 
-
 </p>
+
+
 
 <a href="https://www.buymeacoffee.com/kristovish" target="_blank">
     <img 
