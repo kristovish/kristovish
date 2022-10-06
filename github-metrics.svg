@@ -1496,7 +1496,7 @@ Teacher, Dreamer, Clueless Gamer, Programmer, Mathematician, fitness coach and A
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.63m out of 99m users</span>
+                                    <span class="gh">ranked 1.64m out of 99m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
@@ -1840,7 +1840,7 @@ Teacher, Dreamer, Clueless Gamer, Programmer, Mathematician, fitness coach and A
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2022, 13:32:24 (timezone America/Santiago) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Oct 2022, 14:35:32 (timezone America/Santiago) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
