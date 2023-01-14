@@ -1,11 +1,6 @@
 ##### Connect with me 📫
 
-- 👋 Hi, I’m <i>kristovish</i>
-- 👀 I am truly interest in the programming studying for its graphic appliance, AI branches and videogames.
-- 🤖 I’m an AI enthusiast
-- 💞️ I’m looking to collaborate on AI, games or blockchain development
-
-
+- 👋 Hello, I'm <i>kristovish.</i> I am passionate about programming and its applications in graphics, AI, and video games. As an AI enthusiast, I am constantly exploring new developments in the field and looking for ways to improve my skills. I am also interested in blockchain development. I am always open to collaborate on projects related to AI, games or blockchain development. If you share similar interests and are looking for a collaborator, don't hesitate to reach out to me via Github, Twitter, email or Discord. My handles and contact information are available on my Github profile. Let's connect and create something amazing together!
 
 
 <p align="center">
