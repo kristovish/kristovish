@@ -22,7 +22,7 @@
 
 <a href="https://www.buymeacoffee.com/kristovish" target="_blank">
     <img 
-        align="right" 
+        align="left" 
         src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"
         alt="Buy Me A Coffee" style="width: 140px !important;" 
         />
