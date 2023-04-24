@@ -1,6 +1,12 @@
 ##### Connect with me 📫
 
-- 👋 Hello, I'm <i>kristovish.</i> I am passionate about programming and its applications in graphics, AI, and video games. As an AI enthusiast, I am constantly exploring new developments in the field and looking for ways to improve my skills. I am also interested in blockchain development. I am always open to collaborate on projects related to AI, games or blockchain development. If you share similar interests and are looking for a collaborator, don't hesitate to reach out to me via Github, Twitter, email or Discord. My handles and contact information are available on my Github profile. Let's connect and create something amazing together!
+👋 Hey there, I'm <i>kristovish.</i> and I'm a web developer who loves to create visually stunning and interactive websites that make users go "Wow!" I'm always looking for ways to push the boundaries of what's possible in web development, whether that's through cutting-edge design or implementing complex functionality.💻🚀
+
+As a game dev enthusiast, I'm also passionate about creating immersive user experiences in the gaming world. Whether it's developing engaging storylines or designing captivating game environments, I'm always up for a good challenge.
+
+In addition to my web development and game dev skills, I'm also interested in exploring the exciting possibilities of AI and blockchain development. I love staying up-to-date with the latest developments in these fields and finding ways to apply them to real-world projects.
+
+So if you're looking for a web developer who can bring your vision to life, or a collaborator on an exciting project related to web development, game dev, AI, or blockchain, don't hesitate to reach out to me via Github, Twitter, email, or Discord. You can find all my handles and contact information on my Github profile. Let's create something amazing together!🤝✨
 
 
 <p align="center">
